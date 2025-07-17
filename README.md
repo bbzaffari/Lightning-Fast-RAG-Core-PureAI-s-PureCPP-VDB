@@ -29,4 +29,4 @@ It also serves as a sandbox for testing different embedding providers (OpenAI, C
 ### Notes
 
 The code is work in progress, meant for experimentation. Some modules (like those with `*_dev` suffixes) are in active development.
-
+[Deep ](https://github.com/bbzaffari/Open-Source-RAG-Engine-System-with-Modular-Vector-Processing)
