@@ -1,6 +1,6 @@
 # Chunking and Embedding Pipeline with PureCPP Bindings
 
-This notebook demonstrates how to use the `purecpp_*_dev` Python bindings, which are built with PyBind11 over C++ code, to scrape web pages, split them into text chunks, generate embeddings, and run similarity searches.
+This notebook demonstrates how to use the `purecpp_*_dev` Python bindings, which are built with PyBind11 over C++ code, to scrape web pages, split them into text chunks, generate embeddings, and run similarity searches. [play](https://colab.research.google.com/github/bbzaffari/Lightning-Fast-RAG-Core-PureAI-s-PureCPP-VDB/blob/main/chunk_VDB.ipynb)
 
 ### What it does
 
