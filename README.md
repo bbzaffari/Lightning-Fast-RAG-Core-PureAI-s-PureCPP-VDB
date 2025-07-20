@@ -1,6 +1,6 @@
 # Chunking and Embedding Pipeline with PureCPP Bindings
 
-This notebook demonstrates how to use the `purecpp_*_dev` Python bindings, which are built with PyBind11 over C++ code, to scrape web pages, split them into text chunks, generate embeddings, and run similarity searches. 
+This notebook demonstrates how to use the `purecpp_*_dev` ( a package made for tests/development) Python bindings, which are built with PyBind11 over C++ code, to scrape web pages, split them into text chunks, generate embeddings, and run similarity searches. 
 
 [https://colab.research.google.com/github/bbzaffari/Lightning-Fast-RAG-Core-PureAI-s-PureCPP-VDB/blob/main/chunk_VDB.ipynb](https://colab.research.google.com/github/bbzaffari/Lightning-Fast-RAG-Core-PureAI-s-PureCPP-VDB/blob/main/chunk_VDB.ipynb)
 
@@ -32,3 +32,7 @@ It also serves as a sandbox for testing different embedding providers (OpenAI, C
 
 The code is work in progress, meant for experimentation. Some modules (like those with `*_dev` suffixes) are in active development.
 [Deep ](https://github.com/bbzaffari/Open-Source-RAG-Engine-System-with-Modular-Vector-Processing)
+
+
+
+`purecpp_*_dev is a development-oriented package designed primarily for testing, debugging, and experimental development tasks related to the PureCPP modules. It provides a sandboxed environment where developers can implement, validate, and optimize features before integrating them into production-ready packages. This includes support for experimental APIs, prototype algorithms, and performance profiling tools, offering a flexible space to iterate on new ideas without compromising the stability of the main codebase.`
