@@ -2,7 +2,7 @@
 
 This notebook demonstrates how to use the `purecpp_*_dev` ( a package made for tests/development) Python bindings, which are built with PyBind11 over C++ code, to scrape web pages, split them into text chunks, generate embeddings, and run similarity searches. 
 
-[https://colab.research.google.com/github/bbzaffari/Lightning-Fast-RAG-Core-PureAI-s-PureCPP-VDB/blob/main/chunk_VDB.ipynb](https://colab.research.google.com/github/bbzaffari/Lightning-Fast-RAG-Core-PureAI-s-PureCPP-VDB/blob/main/chunk_VDB.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bbzaffari/Lightning-Fast-RAG-Core-PureAI-s-PureCPP-VDB/blob/main/chunk_VDB.ipynb)
 
 ### What it does
 
